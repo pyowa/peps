@@ -11,8 +11,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Notify Discord
-        uses: Tungdil83/discord-issue-notify@v1.0.0
+        uses: Ilshidur/action-discord@master
         with:
-          webhook_url: ${{ secrets.DISCORD_PEP_WEBHOOK_URL }}
-          mention_users: ""
-          mention_roles: ""
+          args: 'New PEP created'
