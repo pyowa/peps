@@ -11,6 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Notify Discord
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_PEP_WEBHOOK_URL }}
         uses: Ilshidur/action-discord@master
         with:
           args: 'New PEP created'
