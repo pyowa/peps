@@ -7,3 +7,9 @@
 * future ideas for when organization can sustain it:
     * maintain an odd count, minimum of 3, so votes do not tie
     * positions should last two years but can be extended if no one is stepping in to replace or if the count is being expanded (like from 3 to 5)
+
+
+
+### Related peps
+
+[pep #1 - Proposal for Steering Committee](https://github.com/pyowa/peps/issues/1)

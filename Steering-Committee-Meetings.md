@@ -7,3 +7,9 @@
 * review agenda from last week and take action
 * Every meeting should end with setting an agenda for the next meeting
 
+
+
+### Related peps
+
+[pep #2 - Proposal for Steering Committee Meeting Structure](https://github.com/pyowa/Organizer-Meeting-Notes/issues/2)
+
