@@ -1,0 +1,7 @@
+blank_issues_enabled: false
+issue_templates:
+  - name: "pep"
+    description: "Pyowa Enhancement Proposal"
+    title: "[pep]: "
+    labels: ["pep"]
+    body: "./ISSUE_TEMPLATE/pep.md"
