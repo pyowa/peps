@@ -11,5 +11,5 @@
 
 ### Related peps
 
-[pep #2 - Proposal for Steering Committee Meeting Structure](https://github.com/pyowa/Organizer-Meeting-Notes/issues/2)
+[pep #3 - Proposal for Steering Committee Meeting Structure](https://github.com/pyowa/peps/issues/3)
 
