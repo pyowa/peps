@@ -1,3 +1,7 @@
+---
+tags:
+   - sc
+---
 
 # Steering Committee
 
