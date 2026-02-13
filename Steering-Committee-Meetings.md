@@ -1,3 +1,8 @@
+---
+tags:
+  - sc
+---
+
 # Steering Committee Meetings
 
 * Meetings will be held weekly at noon on Fridays in the Discord `#steering-committee-meeting` channel
