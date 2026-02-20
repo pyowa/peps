@@ -1,6 +1,6 @@
 ---
 tags:
-  - sc
+  - scmtgs
 ---
 
 # Steering Committee Meetings
