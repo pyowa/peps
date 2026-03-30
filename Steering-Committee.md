@@ -1,9 +1,9 @@
 ---
+title: Steering Committee
+description: blah blah bla the steering committee is blah blah blah 
 tags:
    - sc
 ---
-
-# Steering Committee
 
 * made up of whoever attends weekly steering commitee meetings (due to this current arrangement, there may be an even number of attendees. In this case, for EACH separate vote during this session one member will be chosen at random to abstain from that vote in order to avoid ties. Paper, Rock, Scissors is an encouraged randomizer if desired.)
 * makes decisions on PEP submissions
@@ -16,4 +16,4 @@ tags:
 
 ### Related peps
 
-[pep #1 - Proposal for Steering Committee](https://github.com/pyowa/peps/issues/1)
+- [pep #1 - Proposal for Steering Committee](https://github.com/pyowa/peps/issues/1)
